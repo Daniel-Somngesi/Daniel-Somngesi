@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel-Somngesi
-- 👀 I’m interested in Software/Web development,UI/UX design and Systems Analysis
+- 👀 I’m interested in Software/Web development, UI/UX design and Systems Analysis
 - 🌱 I’m currently learning Cloud computing
 - 📫 Get in touch; Email: dsomngesi@gmail.com, LinkedIn: Daniel Somngesi
 <!---
